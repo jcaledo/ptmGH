@@ -4,8 +4,8 @@ R package for the analysis of post-translational modifications, with particular 
 
 Extensive and detailed documentation related to this package can be found at https://metositeptm.com. However, it should be noted that many of the functions described in this web may be deprecated in the current ptm version. Nevertheless, if you want to use them, still you can just downloading and installing previous verisons of ptm. For instance: 
 
-`devtools::install_github(repo = "jcaledo/renzGH",
-                         subdir = "Versions/renz_v0.1.1")`
+`devtools::install_github(repo = "jcaledo/rptmGH",
+                         subdir = "versions/ptm_v0.2.5")`
 
 
 ## Citing ptm
